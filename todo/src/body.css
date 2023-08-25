@@ -1,0 +1,78 @@
+#div3{
+    flex: 2;
+}
+#div{
+    display: flex;
+}
+#div1{
+    flex: 2;
+}
+#div2{
+    flex: 6;
+    background-color: rgba(0, 72, 255, 0.573);
+    border-radius: 30px;
+    padding: 6px;
+}
+#input{
+    font-size: large ;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 40px;
+    border: none;
+    color: rgba(0, 72, 255, 0.573);
+    margin-right: 4px;
+    border-radius: 2px;
+    border:1px solid  rgba(0, 72, 255, 0.274);
+}
+#sub{
+    height: 40px;
+    width: 50px;
+    border: none;
+    border-radius: 2px;
+    font-size:17px;
+    font-weight: bolder;
+    background-color: white; 
+    color:rgba(0, 72, 255, 0.865);
+}
+form{
+    margin-bottom: 20px;
+}
+#content{
+    font-size: x-large;
+    color: white;
+    font-weight: 800;
+    font-family: cursive;
+}
+#but{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    background-color: white; 
+    color:rgba(0, 72, 255, 0.865);
+    padding-top: 5px;
+    
+}
+li{ font-size: x-large ;
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: decimal-leading-zero;
+    display: inline;
+}
+.splitleft{
+    text-align: center;
+    flex: 2;
+}
+.splitright{
+    flex:1;
+     text-align: right;
+}
+#split{
+    display: flex;
+}
+#checkbox{
+    width: 100px;
+    height: 25px;
+    margin: 10px;
+}
